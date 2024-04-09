@@ -1,0 +1,11 @@
+{
+    "name": "Update README.md",
+    "description": "CLI README.md generator for ShotGrid frameworks/engines/apps.",
+    "categories": [
+        "Automation",
+        "Python"
+    ],
+    "filePatterns": [
+        "info.yml",
+    ]
+}
