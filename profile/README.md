@@ -6,6 +6,7 @@ Welcome to the Netherlands Filmacademy's Visual Effects & Immersive Media GitHub
 <br>
 
 #### The people behind our pipeline
+[Luuk Kamphuis](https://github.com/luukkamphuisnfa) 3rd year student <br>
 [Jaap-Jan van de Geest](https://github.com/jaapjanvdg) 4rd year student <br>
 [Mervin van Brakel](https://github.com/breaktools) (graduated 2025) <br>
 [Max de Groot](https://github.com/maximumfx) (graduated 2024) <br>
